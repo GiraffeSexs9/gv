@@ -7,10 +7,10 @@ NotificationBindable.OnInvoke = callback
 game.StarterGui:SetCore("SendNotification",  {
  Title = "Gavs Private Lock";
  Text = "Made By Flood";
- Icon = "rbxassetid://38243574";
+ Icon = "rbxassetid://7242945462";
  Duration = 9999999999;
- Button1 = "ok";
- Button2 = "ok";
+ Button1 = "Accept";
+ Button2 = "Im Gay";
  Callback = NotificationBindable;
 })
 
