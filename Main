@@ -5,7 +5,7 @@ local NotificationBindable = Instance.new("BindableFunction")
 NotificationBindable.OnInvoke = callback
 --
 game.StarterGui:SetCore("SendNotification",  {
- Title = "Pickle Assist.me";
+ Title = "Gavs Private Lock";
  Text = "Made By Flood";
  Icon = "rbxassetid://38243574";
  Duration = 9999999999;
