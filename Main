@@ -19,7 +19,7 @@ local LocalPlayer = Players.LocalPlayer
 local accomidationfactor = 0.15537
 
 -- // Silent Aim Module
-local SilentAim = loadstring(game:HttpGet("https://pastebin.com/xSwaWBKw"))()
+local SilentAim = loadstring(game:HttpGet("https://pastebin.com/edit/xSwaWBKw"))()
 SilentAim.TeamCheck = false
 
 -- // Metatable vars
