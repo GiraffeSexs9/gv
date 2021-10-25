@@ -15,7 +15,7 @@ game.StarterGui:SetCore("SendNotification",  {
 })
 
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://pastebin.com/edit/3Hf4gSgq"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/progamerflood99/gavsprivate/main/Adjust"))()
 Aiming.TeamCheck(false)
 
 -- // Services
